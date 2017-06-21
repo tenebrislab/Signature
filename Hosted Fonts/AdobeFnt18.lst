@@ -1,0 +1,81 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-Bold
+FamilyName:Trade Gothic LT Std
+StyleName:Bold
+MenuName:Trade Gothic LT Std Bold
+StyleBits:0
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:Trade Gothic LT Std Bold
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:29336
+FileModTime:1382013028
+DesignSize:120
+NameArray:0,Mac,4,Trade Gothic LT Std Bold
+NameArray:0,Win,1,Trade Gothic LT Std Bold
+NameArray:0,Win,16,Trade Gothic LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd-BoldObl
+FamilyName:Trade Gothic LT Std
+StyleName:Bold Oblique
+MenuName:Trade Gothic LT Std Bold
+StyleBits:1
+WeightClass:700
+WidthClass:4
+AngleClass:1
+FullName:Trade Gothic LT Std Bold Oblique
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd-BoldObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:30376
+FileModTime:1382013028
+DesignSize:120
+NameArray:0,Mac,18,Trade Gothic LT Std Bold Obl
+NameArray:0,Mac,4,Trade Gothic LT Std Bold Oblique
+NameArray:0,Win,1,Trade Gothic LT Std Bold
+NameArray:0,Win,16,Trade Gothic LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TradeGothicLTStd
+FamilyName:Trade Gothic LT Std
+StyleName:Regular
+MenuName:Trade Gothic LT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Trade Gothic LT Std
+WritingScript:Roman
+OutlineFileName:\TradeGothicLTStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:28908
+FileModTime:1382013028
+DesignSize:120
+NameArray:0,Mac,4,Trade Gothic LT Std
+NameArray:0,Win,1,Trade Gothic LT Std
+%EndFont
+
